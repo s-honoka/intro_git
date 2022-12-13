@@ -1,3 +1,6 @@
 aaa
 
 あいうえお
+
+git commit
+git add
