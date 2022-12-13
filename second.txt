@@ -5,3 +5,4 @@ aaa
 git commit
 git add
 gitremove
+git status
