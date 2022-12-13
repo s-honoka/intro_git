@@ -6,3 +6,6 @@ git commit
 git add
 gitremove
 git status
+git diff
+gittt
+gggg
